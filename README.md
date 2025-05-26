@@ -57,8 +57,7 @@ Control mouse or media using hand movement
 
 Save captured hand landmark data for training models
 
-👨‍💻 Author
-Abhishek Kumar GitHub: https://github.com/themarcos-abhi
+👨‍💻 Author Saurabh Pal GitHub: https://github.com/palsaurabh795
 
 2. (Optional) Create and activate a virtual environment
 python -m venv venv
